@@ -1,1 +1,1 @@
-local merge
+test line, after conflict
